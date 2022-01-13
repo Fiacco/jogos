@@ -1,0 +1,14 @@
+banana
+melancia
+uva
+morango
+pera
+abacaxi
+melao
+mamao
+manga
+limao
+laranja
+goiaba
+maracuja
+
